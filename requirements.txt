@@ -84,7 +84,7 @@ pycurl==7.43.0
 pygame==1.9.6
 Pygments==2.6.1
 pygobject==3.22.0
-pyOpenSSL==16.2.0
+pyOpenSSL==17.5.0
 pyparsing==2.4.7
 pyRFC3339==1.0
 pyrsistent==0.16.0
